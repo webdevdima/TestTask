@@ -5,6 +5,26 @@
 	font-family: sans-serif;
 }
 
+.text1 {
+	border-left: 3px dotted #f51b1b;
+}
+
+.text2 {
+	border-left: 5px dashed #61294e;
+}
+
+.text3 {
+	border-left: 1px solid #0b0112;
+}
+
+.text4 {
+	border-left: 7px double #4b2961;
+}
+
+.text5 {
+	border-left: 9px outset #195c70;
+}
+
 .header2 {
 	color: #4b2961;
 	background-color: #0b0112;
