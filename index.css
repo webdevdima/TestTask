@@ -1,0 +1,41 @@
+.header1 {
+	color: #f51b1b;
+	background-color: #61294e;
+	font-size: 16px;
+	font-family: sans-serif;
+}
+
+.header2 {
+	color: #4b2961;
+	background-color: #0b0112;
+	font-size: 18px;
+	font-family: monospace;
+}
+
+.header3 {
+	color: #3d11ed;
+	background-color: #195c70;
+	font-size: 20px;
+	font-family: sans-serif;
+}
+
+.header4 {
+	color: #11abed;
+	background-color: #19704c;
+	font-size: 22px;
+	font-family: sans-serif;
+}
+
+.header5 {
+	color: #11ed78;
+	background-color: #3a7019;
+	font-size: 24px;
+	font-family: sans-serif;
+}
+
+.header6 {
+	color: #a7ed11;
+	background-color: #704319;
+	font-size: 26px;
+	font-family: sans-serif;
+}
