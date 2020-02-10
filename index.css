@@ -109,6 +109,21 @@
 	font-family: sans-serif;
 }
 
+.img1 {
+	border-radius: 40px;
+	box-shadow: 0 0 5px red;
+	border: 2px solid red;
+	max-width: 450px;
+}
+
+.img2 {
+	border-radius: 50%;
+	box-shadow: 0 0 15px blue;
+	border: 5px solid blue;
+	max-width: 500px;
+	margin-left: 100px;
+}
+
 .header6 {
 	color: #a7ed11;
 	background-color: #704319;
